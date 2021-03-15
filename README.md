@@ -1,4 +1,4 @@
-# HelloCli
+# Customers tutorial
 
 Created following <a href="https://scrimba.com/learn/yourfirstangularapp" target="_blank">this</a> example. 
 
