@@ -1,6 +1,6 @@
 # Customers tutorial
 
-Created following <a href="https://scrimba.com/learn/yourfirstangularapp" target="_blank">this</a> example. 
+Created following <a href="https://scrimba.com/learn/yourfirstangularapp" target="_blank">this</a> example. Hosted [here](https://aulifarm.github.io/customers-tutorial/).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
